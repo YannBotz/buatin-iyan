@@ -22,8 +22,8 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/HARISGANZ/Hanz
-> cd Hanz
+> git clone link nya
+> cd nama terakhir bot
 > npm i
 ```
 ### For termux users before running the above command write this command
@@ -49,8 +49,8 @@ after start it you need to scan the qr
 ### Contact me
 
 
-- [WHATSAPP](http://wa.me/6283144394823)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/H2dvuYaI3SbKURzstwl7Wn)
+- [WHATSAPP](http://wa.me/6282320830684)
+- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/KTmU4Hoj437BX4fWpXTnpF)
 
 
 ## 🙏 Special Thanks to
